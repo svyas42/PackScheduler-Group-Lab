@@ -1,0 +1,1 @@
+src/edu/ncsu/csc216/pack_scheduler/user/Student.java:127:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
